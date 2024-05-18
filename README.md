@@ -41,7 +41,7 @@ This folder contains the raw dataset where all the data analyses are coming from
 
 ## Visualizations
 
-This folder contains all the .ipynb files that contains the code that are made with the help of the modules and aims to visualize according to the needs.
+This folder contains all the .ipynb files that contain the code that are made with the help of the modules and aims to visualize according to the needs.
 
 ### Example Visualization
 
