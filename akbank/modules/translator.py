@@ -12,10 +12,8 @@ class CategoryTranslator:
             return translations.get('category_translations', {})
 
     def translate_categories(self, df, column_name):
-        # Create a new column for the Turkish translations
         df['translated_category'] = df[column_name].map(self.category_mapping.get)
         return df
 
     def get_translation(self, category):
-        # Get the translation for a specific category
         return self.category_mapping.get(category)
