@@ -45,7 +45,7 @@ This folder contains all the .ipynb files that contains the code that are made w
 
 ### Example Visualization
 
-![Screenshot](screenshots/visualization_instance.png)
+![Screenshot](akbank/screenshots/visualization_instance.png)
 
 
 
