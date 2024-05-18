@@ -1,0 +1,35 @@
+{
+    "category_translations": {
+        "Accounting & Finance Jobs": "Muhasebe ve Finans İşleri",
+        "Admin Jobs": "İdari İşler",
+        "Agriculture, Fishing & Forestry Jobs": "Tarım, Balıkçılık ve Ormancılık İşleri",
+        "Consultancy Jobs": "Danışmanlık İşleri",
+        "Creative & Design Jobs": "Yaratıcı ve Tasarım İşleri",
+        "Customer Services Jobs": "Müşteri Hizmetleri İşleri",
+        "Domestic Help & Cleaning Jobs": "Ev Yardımcılığı ve Temizlik İşleri",
+        "Energy, Oil & Gas Jobs": "Enerji, Petrol ve Gaz İşleri",
+        "Engineering Jobs": "Mühendislik İşleri",
+        "Graduate Jobs": "Mezuniyet İşleri",
+        "HR & Recruitment Jobs": "İnsan Kaynakları ve İşe Alım İşleri",
+        "Healthcare & Nursing Jobs": "Sağlık ve Hemşirelik İşleri",
+        "Hospitality & Catering Jobs": "Konaklama ve Yemek İşleri",
+        "IT Jobs": "Bilgi Teknolojisi İşleri",
+        "Legal Jobs": "Hukuk İşleri",
+        "Logistics & Warehouse Jobs": "Lojistik ve Depo İşleri",
+        "Maintenance Jobs": "Bakım İşleri",
+        "Manufacturing Jobs": "Üretim İşleri",
+        "Other/General Jobs": "Diğer/Genel İşler",
+        "PR, Advertising & Marketing Jobs": "Halkla İlişkiler, Reklam ve Pazarlama İşleri",
+        "Property Jobs": "Gayrimenkul İşleri",
+        "Retail Jobs": "Perakende İşleri",
+        "Sales Jobs": "Satış İşleri",
+        "Scientific & QA Jobs": "Bilimsel ve Kalite Güvence İşleri",
+        "Security & Protective Services Jobs": "Güvenlik ve Koruma Hizmetleri İşleri",
+        "Social Care Jobs": "Sosyal Bakım İşleri",
+        "Social Work Jobs": "Sosyal Hizmet İşleri",
+        "Teaching Jobs": "Öğretim İşleri",
+        "Trade & Construction Jobs": "Ticaret ve İnşaat İşleri",
+        "Travel Jobs": "Seyahat İşleri"
+
+    }
+}
