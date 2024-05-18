@@ -18,7 +18,7 @@ class CategoryTranslator:
             return {}
 
     def translate_categories(self, df, column_name):
-        print("Loaded translations:", self.category_mapping)
+        print("DEBUG: Loaded translations:", self.category_mapping)
         df['translated_category'] = df[column_name].map(self.category_mapping.get)
         return df
 
