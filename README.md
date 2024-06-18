@@ -27,7 +27,7 @@ This project consists of three folders:
 Modules consist of classes that contain functions designed to be reusable and flexible for different types of analyses. This folder represents where the background tasks are performed and contains the core code structures that accomplish these tasks.
 
 ### Example usage of module:
-```ruby
+```python
 from local_outlier import LocalOutlierDetection
 
 outlier_detection = LocalOutlierDetection()
